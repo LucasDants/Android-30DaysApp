@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Thirty Days of Android</string>
+    <string name="day_title_1">Unit 1: Your first Android app</string>
+    <string name="day_title_2">Unit 2: Building app UI</string>
+    <string name="day_title_3">Unit 3: Display lists and use Material Design</string>
+    <string name="day_title_4">Unit 4: Navigation and app architecture</string>
+    <string name="day_description_1">Learn programming basics and create your first Android app.</string>
+    <string name="day_description_2">Continue learning the fundamentals of Kotlin, and start building more interactive apps.</string>
+    <string name="day_description_3">Build apps that display a list of data and learn how to make your apps more beautiful with Material Design.</string>
+    <string name="day_description_4">Learn the best practices of app architecture to build more complex apps.</string>
+</resources>
